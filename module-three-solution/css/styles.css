@@ -1,0 +1,39 @@
+
+
+.navbar {
+	background-color: #F2614B;
+}
+
+.navbar-default .navbar-brand{
+	color: white;
+}
+
+section {
+	background-color: #2399A6;
+}
+
+p {
+	color: #E4EAFF;
+	font-size: 1.25em;
+}
+
+
+.navbar-default .navbar-nav>li a{
+color: white;
+}
+
+
+.cotainer{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.row {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+	color: #F2614B;
+}
